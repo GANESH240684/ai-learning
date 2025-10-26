@@ -1,0 +1,11 @@
+"C:\Users\Ganesh Mohan\AppData\Local\Programs\Python\Python313\python"
+
+py -m venv venv ( command to install venv)
+OR 
+python3 -m venv venv 
+
+PS:  C:\Personnel\AI-Training\OpenAi_chatbot\Embeddings>.\venv\Scripts\Activate.ps1
+
+(venv) C:\Personnel\AI-Training\OpenAi_chatbot\Embeddings> pip install -r requirements.txt
+
+jupyter notebook
